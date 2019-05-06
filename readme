@@ -1,0 +1,11 @@
+For q1:
+input is num_of_epochs and k (k-fold)
+For q2:
+To run use python lsa.py arg
+arg=1 to run on dataset1
+arg=2 to run on dataset2
+similarly for lda
+For q3:
+To run multiclass perceptron use python 201501157_q2_a.py trainpath testpath 
+Number of epochs is input for it
+To run cosine similarity 201501157_q2_a.py trainpath testpath
